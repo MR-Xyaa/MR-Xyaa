@@ -1,1 +1,5 @@
-- Recode buat havefun doang bang:v-
+# USERNAME
+- MR
+# PASSWORD
+- Xyaa
+# # #
