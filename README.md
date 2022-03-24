@@ -1,7 +1,5 @@
-- USERNAME
-# MR
-- PASSWORD
-# Xyaa
+# USERNAME & PASSWORD
+- MR        - Xyaa
 
 
 # facebook
