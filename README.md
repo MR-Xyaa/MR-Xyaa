@@ -2,6 +2,10 @@
 - MR        
 - Xyaa
 
-
-# facebook
-- https://facebook.com
+# INFO
+┌─
+│ ┌[!] Media Sosial Me 🌍🌍
+│ ├[+] Author  : MR-Xyaa
+│ ├[+] Facebook: Xyaa Xyaa
+│ └[+] Contact : +628313863993
+└─
