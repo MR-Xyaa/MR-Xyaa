@@ -1,7 +1,6 @@
 # USERNAME & PASSWORD
 - MR        
 - Xyaa
-
 # INFO
 ┌─
 │ ┌[!] Media Sosial Me 🌍🌍
