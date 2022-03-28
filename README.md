@@ -4,7 +4,7 @@
 # INFO
 ```python
 ┌─
-│ ┌[!] Media Sosial Me 🌍🌍
+│ ┌[☆] Media Sosial Me 🌍🌍
 │ ├[+] Author  : MR-Xyaa
 │ ├[+] Facebook: Xyaa Xyaa
 │ └[+] Contact : +628313863993
